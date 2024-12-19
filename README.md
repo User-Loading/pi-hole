@@ -1,1 +1,1 @@
-My blocklist, useless
+My Trackers & Analytics blocklist, useless
