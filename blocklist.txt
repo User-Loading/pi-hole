@@ -176,3 +176,5 @@ analytics.whitelabeliq.com
 analytics.witglobal.net
 analytics.xyzmedia.net
 analyticsmatomo.ggdghor.nl
+www.miuiboot.tracking.intl.miui.com
+www.miuiboot.tracking.miui.com
