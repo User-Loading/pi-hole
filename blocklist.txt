@@ -362,3 +362,4 @@ metrika.yandex.com
 metrika.yandex.net
 metrika.yandex.ru
 awstrack.me
+tracking.heydata.eu
